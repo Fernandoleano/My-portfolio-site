@@ -179,7 +179,21 @@ h1, h2, h3, h4, h5, h6 {
 /*** work ***/
 #work {
 	padding: 6em 4em 3em;
-	background-color: #fff;
+	background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+	background-size: 400% 400%;
+	animation: gradient 15s ease infinite;
+}
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
 }
 
 #work h2 {
@@ -189,7 +203,7 @@ h1, h2, h3, h4, h5, h6 {
 
 
 #work .tag-line {
-	color: #767779;
+	color: rgb(54, 52, 52);
 	font-size: 1.4em;
 	margin-bottom: 4em;
 }
@@ -199,7 +213,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .details h3 {
-	color: #738182;
+	color: rgb(54, 52, 52);
 	text-transform: uppercase;
 }
 
@@ -218,7 +232,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .details p {
-	color: #738182;
+	color: rgb(54, 52, 52);
 	font-family: "Maven pro", sans-serif;
 	font-weight: 500;
 	font-size: 1.2em;
