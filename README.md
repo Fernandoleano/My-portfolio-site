@@ -4,7 +4,9 @@ My portfolio site! 🔥
 
 site url: https://my-portfolio-site-alpha.vercel.app/
 
-<img width="1439" alt="Screen Shot 2021-06-24 at 9 22 30 AM" src="https://user-images.githubusercontent.com/68082556/123276578-4a9e2c00-d4d3-11eb-9573-3f8c25cb57ab.png">
-<img width="1440" alt="Screen Shot 2021-06-24 at 10 03 50 AM" src="https://user-images.githubusercontent.com/68082556/123276808-820cd880-d4d3-11eb-93d2-85b12baa4a01.png">
-<img width="1440" alt="Screen Shot 2021-06-24 at 10 04 19 AM" src="https://user-images.githubusercontent.com/68082556/123276858-918c2180-d4d3-11eb-85cf-95d03bb74c4c.png">
-<img width="1440" alt="Screen Shot 2021-06-24 at 10 04 39 AM" src="https://user-images.githubusercontent.com/68082556/123276902-9c46b680-d4d3-11eb-9bfb-1cc8ce168bb9.png">
+![image](https://user-images.githubusercontent.com/68082556/165405663-f87402e8-8d92-4fd8-8a4c-75b5cc8c01f2.png)
+![image](https://user-images.githubusercontent.com/68082556/165405689-7ef26a2b-9f5c-4332-8380-a944526155c3.png)
+![image](https://user-images.githubusercontent.com/68082556/165405707-94cd7053-875d-4572-bd2e-526f9903db6b.png)
+![image](https://user-images.githubusercontent.com/68082556/165405743-11bf0d82-231f-4591-86ac-a5fc6bd66e88.png)
+![image](https://user-images.githubusercontent.com/68082556/165405770-5117bf8f-0ae2-419a-a939-66891e63d627.png)
+![image](https://user-images.githubusercontent.com/68082556/165405782-d28b2ca1-938d-45b1-9822-d972e1f88c7f.png)
