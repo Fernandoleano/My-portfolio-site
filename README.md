@@ -1,4 +1,5 @@
-Full Stack Developer Portfolio
+# Full Stack Developer Portfolio
+
 Welcome to my portfolio! As a Full Stack Developer, I have experience in both front-end and back-end development. This is where you can find information about my skills, projects, and experience.
 
 About Me
